@@ -1,0 +1,19 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "An app for managing notes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notes-app"
+  ],
+  "author": "Kevin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "node": "^19.8.1",
+    "yargs": "^17.7.2"
+  }
+}
